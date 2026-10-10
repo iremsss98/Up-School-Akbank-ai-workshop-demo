@@ -1,0 +1,6 @@
+{
+  "name": "Pathfinder AI: Mülakat & Kariyer Koçu",
+  "description": "Mülakat katılımcısının unvanına özel potansiyel soru simülasyonu ve tamamlanan eğitim içeriklerine göre kişiselleştirilmiş kariyer yol haritası sunan yapay zeka koçu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

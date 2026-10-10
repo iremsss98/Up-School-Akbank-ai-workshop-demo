@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive implementation plan for the Interview & Career Agent Coach applet. Details architecture, dual-agent coaching modules (Interviewer-Tailored Question Generator & Simulation, and Course-Grounded Career Roadmap & Skill Gap Analyzer), bilingual support, server-side Gemini 3.8 Flash integration, and clean SaaS workspace UI design.",
+  "updatedAt":  "2026-10-10T11:28:53.411379356Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
